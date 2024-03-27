@@ -11,16 +11,11 @@ This is a FastAPI-based web service for processing videos to detect faces and an
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/muwahidasdim/Face-detection-and-sentiment-analysis.git
     ```
 
-2. Navigate to the project directory:
 
-    ```bash
-    cd fastapi-video-processing-service
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
@@ -56,8 +51,6 @@ This is a FastAPI-based web service for processing videos to detect faces and an
 
 ## Contributors
 
-- [Your Name](mailto:your.email@example.com)
+- [Muhammad Muwahid Asim](mailto:asim.muwahid@gmail.com)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
